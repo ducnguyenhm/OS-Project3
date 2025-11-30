@@ -30,7 +30,7 @@ To clean up binaries:
 Test:
 - ./myls
 - ./myls -l
-- ./myls -l Makefile
+- ./myls -l Test
 - ./mytail -n 3 README.MD
 
 
