@@ -1,7 +1,7 @@
 ## What I did
 
 myls.c — list files, with -l support
-Features:
+#Features:
 myls → list entries in current directory
 myls dir → list entries in dir
 myls -l → long listing for current directory
@@ -9,7 +9,7 @@ myls -l dir → long listing for dir
 
 
 mytail.c — efficient tail with lseek()
-Features:
+#Features:
 seek near end, read a block, scan backwards to find N newlines, then print from there to EOF.
 mytail -n <num> file
 
