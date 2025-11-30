@@ -28,10 +28,10 @@ To clean up binaries:
     make clean
 
 Test:
-    ./myls
-    ./myls -l
-    ./myls -l Makefile
-    ./mytail -n 3 README.MD
+- ./myls
+- ./myls -l
+- ./myls -l Makefile
+- ./mytail -n 3 README.MD
 
 
 ### Collaborative Statements
